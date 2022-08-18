@@ -1,5 +1,5 @@
 # window-tracker
-window tracker made with react.
+window tracker made with react. The window size trackers refreshes as you set a new window width.
 This project uses useEffect and memory leak. 
 I learned how to use a removeEventListner function to avoid memory leak.
 
